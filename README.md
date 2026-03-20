@@ -17,6 +17,6 @@ Dashboard interactivo en Excel + Power Query usando dataset real de Kaggle (expa
 - **nykaa_campaign_data.csv** → Dataset muestra limpia
 - **Dashboard Nykaa.png** → Captura del dashboard final
 
-Publicado originalmente en LinkedIn: [pega tu link al post aquí]
+Publicado originalmente en LinkedIn: [www.linkedin.com/in/juan-diego-barros-sierra-26b87539a]
 
 Próximos pasos: migrar a SQL y Python.
